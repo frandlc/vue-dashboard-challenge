@@ -21,7 +21,15 @@ The project is using tailwind for the styles just to show that i can work with c
 
 Creo que el proyecto esta incompleto en detalles, podría estar mejor, si es necesario puedo mejorarlo bastante en distintos sentidos. Si bien los requisitos están cumplidos creo que pueden ser logrados de mejor manera e incluso podría tener todo funcionando. En cuestiones como las request HTTP traté de concentrarme en como manejaría la data el front y no tanto en el manejo de errores de esto, que claramente en un ambiente de desarrollo real tendría mucho para hacer.
 
+### Cuenta secundaria de github
+Esta cuenta es utilizada para mis proyectos personales, les dejo el link a la principal por si desean: 
+- https://github.com/agudlc
+
 I think the project is incomplete in some ways like the mock of the http request and the error handling for it. If you need to see more i can gadly improve this codebase and i will love to talk about it.
+
+### Secondary github account
+This is personal projects github account, my main account is: 
+- https://github.com/agudlc
 
 ## Project Setup
 
